@@ -1,0 +1,185 @@
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100vh;
+  padding-top: 7.5rem;
+}
+.s-left {
+  flex: 0.5;
+  justify-content: left;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  /* border: 1px solid black; */
+}
+.s-left > :nth-child(1) {
+  color: var(--black);
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.s-left > :nth-child(2) {
+  color: var(--lightblue);
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.s-right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: flex-start; */
+  /* border: 1px solid black; */
+}
+.s-right span{
+    color: var(--black);
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.Pro-lang{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Tools{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.circles {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: flex-start;
+  flex-wrap: wrap;
+  height: 100%;
+  margin-left: 1rem;
+  padding-top: 4rem;
+}
+/* react */
+.circles > :nth-child(1) {
+  margin: 1rem;
+}
+/* sass */
+.circles > :nth-child(2) {
+  margin-left: 3rem;
+  margin-top: -1.5rem;
+}
+/* html */
+.circles > :nth-child(3) {
+  margin-left: 4rem;
+  margin-top: 1.5rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+/* css */
+.circles > :nth-child(4) {
+  margin-left: 3.3rem;
+  margin-top: 2rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+/* js */
+.circles > :nth-child(5) {
+  margin-left: 2rem;
+  margin-top: -1rem;
+  margin-right: 1rem;
+  margin-bottom: 1.5rem;
+}
+/* mysql */
+.circles > :nth-child(6) {
+  margin-left: 1.75rem;
+  margin-right: 2rem;
+  margin: 1rem;
+}
+/* php */
+.circles > :nth-child(7) {
+  margin-left: 3.5rem;
+  margin-top: -1.5rem;
+  margin-right: 1rem;
+}
+/* arduino */
+.circles > :nth-child(8) {
+  margin-left: 2.25rem;
+  margin-top: -0.25rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+.circles> :nth-child(9){
+    margin-left: 1.5rem;
+    margin: 1rem;
+}
+/*.circles> :nth-child(10){
+    margin-left: 5rem;
+} */
+
+.circles div {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: var(--white-color);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.circles img {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+@media screen and (max-width: 768px) {
+  .skills {
+    margin-top: 0;
+    gap: 5rem;
+    height: auto;
+    padding: 0;
+  }
+  .s-left {
+    flex: 1;
+  }
+  .s-right {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+  }
+  .circles {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .circles > :nth-child(1) {
+    margin-left: 1rem;
+  }
+  .circles > :nth-child(2) {
+    margin-left: 10rem;
+  }
+  .circles > :nth-child(3) {
+    margin-left: 3rem;
+  }
+  .circles > :nth-child(4) {
+    margin-left: 14rem;
+  }
+  .circles > :nth-child(5) {
+    margin-left: 5rem;
+  }
+  .circles > :nth-child(6) {
+    margin-left: -0.75rem;
+  }
+  .circles > :nth-child(7) {
+    margin-left: 9rem;
+    margin-top: -3.5rem;
+  }
+  .circles > :nth-child(8) {
+    margin-left: 0.25rem;
+    margin-top: 1.25rem;
+  }
+  .circles> :nth-child(9){
+    margin-left: 9.5rem;
+    
+  }
+}
