@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sorawit.sa/static/css/main.3ba7d1a7.css",
-    "main.js": "/Sorawit.sa/static/js/main.dae470a9.js",
+    "main.css": "/Sorawit.sa/static/css/main.b230d803.css",
+    "main.js": "/Sorawit.sa/static/js/main.e25200be.js",
     "static/media/Foodgang.png": "/Sorawit.sa/static/media/Foodgang.c9fb3c5f4ee73a7cad7a.png",
     "static/media/panuwat.png": "/Sorawit.sa/static/media/panuwat.e39c1eb7ccabce97aa24.png",
     "static/media/imgport_2.png": "/Sorawit.sa/static/media/imgport_2.6c67e33d5233dab6d15a.png",
@@ -28,11 +28,11 @@
     "static/media/glasses.png": "/Sorawit.sa/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "static/media/css.png": "/Sorawit.sa/static/media/css.5721a3928fe43de6baf8.png",
     "index.html": "/Sorawit.sa/index.html",
-    "main.3ba7d1a7.css.map": "/Sorawit.sa/static/css/main.3ba7d1a7.css.map",
-    "main.dae470a9.js.map": "/Sorawit.sa/static/js/main.dae470a9.js.map"
+    "main.b230d803.css.map": "/Sorawit.sa/static/css/main.b230d803.css.map",
+    "main.e25200be.js.map": "/Sorawit.sa/static/js/main.e25200be.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ba7d1a7.css",
-    "static/js/main.dae470a9.js"
+    "static/css/main.b230d803.css",
+    "static/js/main.e25200be.js"
   ]
 }
