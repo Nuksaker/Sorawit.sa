@@ -27,7 +27,7 @@ export const Skills = () => {
       <div className="s-right">
         <div className="Pro-lang">
           <span style={{ color: darkMode ? "white" : "" }}>
-            Programing language
+            Programing Language
           </span>
           <motion.div
             variants={scaleVariants}

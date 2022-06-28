@@ -65,6 +65,16 @@
     gap: 5rem;
     height: 77rem;
     padding: 0;
+    width: 100vw;
+  }
+  .s-blur2 {
+    left: 0rem;
+    top: -7rem;
+  }
+  
+  .s-blur1 {
+    top: 11rem;
+    left: 0rem;
   }
 
   .cards {

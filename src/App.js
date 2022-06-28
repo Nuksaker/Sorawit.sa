@@ -9,6 +9,7 @@ import Footer from "./components/Footer/Footer";
 import { useContext } from "react";
 import { themeContext } from "./Context";
 import Skills from "./components/Skills/Skills";
+
 function App() {
   const theme = useContext(themeContext);
   const darkMode = theme.state.darkMode;

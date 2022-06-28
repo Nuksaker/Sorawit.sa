@@ -6,7 +6,7 @@ import Card from "../Card/Card";
 // import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from "./resume.pdf";
+import Resume from "./Resume.pdf";
 
 const About = () => {
   // context
@@ -46,14 +46,14 @@ const About = () => {
         >
           <Card
             year={"2013-2016"}
-            heading={"Yasothon Technical College"}
-            detail={"Vocational Certificate"}
-            academy={"( Voc. Cert. )"}
+            academy={"Yasothon Technical College"}
+            qualification_1={"Vocational Certificate"}
+            qualification_2={"( Voc. Cert. )"}
             department={"Computer Technology"}
             internships={"Internships"}
-            detail_2={"Cat Telecom"}
+            detail_1={"Cat Telecom"}
             project={"Project"}
-            detail_3={"Digital height gauge and weight scale."}
+            detail_2={"Digital height gauge and weight scale."}
           />
         </motion.div>
         {/* second card */}
@@ -64,14 +64,14 @@ const About = () => {
         >
           <Card
             year={"2016-2018"}
-            heading={"Yasothon Technical College"}
-            detail={"High Vocational Certificate"}
-            academy={"( High Voc. Cert. )"}
+            academy={"Yasothon Technical College"}
+            qualification_1={"High Vocational Certificate"}
+            qualification_2={"( High Voc. Cert. )"}
             department={"Computer Hardware"}
             internships={"Internships"}
-            detail_2={"Cat Telecom"}
+            detail_1={"Cat Telecom"}
             project={"Project"}
-            detail_3={"Piggy bank separates coins and counts coins automatically."}
+            detail_2={"Piggy bank separates coins and counts coins automatically."}
           />
         </motion.div>
         
@@ -84,14 +84,14 @@ const About = () => {
           <Card
             // emoji={Humble}
             year={"2018-Present"}
-            heading={"Rajamangala University Of Technology Isan ,RMUTI"}
-            detail={"Bachelor of Engineering"}
-            academy={"( B.Eng. )"}
+            academy={"Rajamangala University Of Technology Isan ,RMUTI"}
+            qualification_1={"Bachelor of Engineering"}
+            qualification_2={"( B.Eng. )"}
             department={"Computer Engineering"}
             internships={"Internships"}
-            detail_2={"-"}
+            detail_1={"-"}
             project={"Project"}
-            detail_3={"Develop EA learning Management System. (I am working on it)"}โปรแกรมส่งเสริมการเรียนรู้ด้วยตนเองผ่านระบบอิเล็กทรอนิกส์
+            detail_2={"Develop EA learning Management System. (I am working on it)"}โปรแกรมส่งเสริมการเรียนรู้ด้วยตนเองผ่านระบบอิเล็กทรอนิกส์
           />
         </motion.div>
         <div

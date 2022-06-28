@@ -17,13 +17,26 @@
 *{
   font-family: Roboto;
   font-weight: 400;
+  margin: 0;
+  padding: 0;
 }
 
 .App{
     padding: 0.5rem 3.5rem;
     overflow: hidden;
     color: var(--black); 
-    
+
+}
+::-webkit-scrollbar{
+  width: 10px;
+}
+
+::-webkit-scrollbar-track{
+  background-color: var(--blueCard);
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: var(--lightblue);
 }
 
 .button {
@@ -33,7 +46,7 @@
     border: none;
     color: white;
     font-size: 18px;
-    padding: 11px 26px 11px 26px;
+    padding: 11px 26px 32px 26px;
     font-weight: 500;
   }
   

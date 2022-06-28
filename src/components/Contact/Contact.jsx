@@ -28,10 +28,6 @@ const Contact = () => {
         <div className="awesome">
           {/* darkMode */}
           <span style={{color: darkMode?'white': ''}}>Contact <span className="text-2"> Me</span></span>
-          <div
-            className="blur s-blur1"
-            style={{ background: "#ABF1FF94" }}
-          ></div>
         </div>
       </div>
       {/* right side form */}
