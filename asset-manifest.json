@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sorawit.sa/static/css/main.0048423b.css",
-    "main.js": "/Sorawit.sa/static/js/main.2607ca01.js",
+    "main.js": "/Sorawit.sa/static/js/main.bb5f1bf8.js",
     "static/media/nakronpanom.png": "/Sorawit.sa/static/media/nakronpanom.606564fcf855a6d53c1e.png",
     "static/media/Foodgang.png": "/Sorawit.sa/static/media/Foodgang.c9fb3c5f4ee73a7cad7a.png",
     "static/media/panuwat.png": "/Sorawit.sa/static/media/panuwat.e39c1eb7ccabce97aa24.png",
@@ -11,9 +11,9 @@
     "static/media/profile_1.png": "/Sorawit.sa/static/media/profile_1.f4e8016329261a385432.png",
     "static/media/profile_2.png": "/Sorawit.sa/static/media/profile_2.bad812ca92cef2a7ddb2.png",
     "static/media/Project.png": "/Sorawit.sa/static/media/Project.7c627c74b89059528efd.png",
-    "static/media/Resume.pdf": "/Sorawit.sa/static/media/Resume.d2856f2820b9d0203d20.pdf",
     "static/media/MySQL.png": "/Sorawit.sa/static/media/MySQL.167c88550478e6f0f85c.png",
     "static/media/Vector5.png": "/Sorawit.sa/static/media/Vector5.8c9b99ef002509dfe9e5.png",
+    "static/media/Resume.pdf": "/Sorawit.sa/static/media/Resume.717a67ae66dd7900e1b4.pdf",
     "static/media/Vector6.png": "/Sorawit.sa/static/media/Vector6.b8509fad750d6d0ec9e1.png",
     "static/media/photoshop.png": "/Sorawit.sa/static/media/photoshop.4bc46271dfb3ad82e936.png",
     "static/media/Vector4.png": "/Sorawit.sa/static/media/Vector4.53ab633804283786c729.png",
@@ -33,10 +33,10 @@
     "static/media/css.png": "/Sorawit.sa/static/media/css.5721a3928fe43de6baf8.png",
     "index.html": "/Sorawit.sa/index.html",
     "main.0048423b.css.map": "/Sorawit.sa/static/css/main.0048423b.css.map",
-    "main.2607ca01.js.map": "/Sorawit.sa/static/js/main.2607ca01.js.map"
+    "main.bb5f1bf8.js.map": "/Sorawit.sa/static/js/main.bb5f1bf8.js.map"
   },
   "entrypoints": [
     "static/css/main.0048423b.css",
-    "static/js/main.2607ca01.js"
+    "static/js/main.bb5f1bf8.js"
   ]
 }
