@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Sorawit.sa/static/css/main.8c10f118.css",
-    "main.js": "/Sorawit.sa/static/js/main.84487b08.js",
+    "main.css": "/Sorawit.sa/static/css/main.0048423b.css",
+    "main.js": "/Sorawit.sa/static/js/main.881d0456.js",
+    "static/media/nakronpanom.png": "/Sorawit.sa/static/media/nakronpanom.606564fcf855a6d53c1e.png",
     "static/media/Foodgang.png": "/Sorawit.sa/static/media/Foodgang.c9fb3c5f4ee73a7cad7a.png",
     "static/media/panuwat.png": "/Sorawit.sa/static/media/panuwat.e39c1eb7ccabce97aa24.png",
     "static/media/imgport_2.png": "/Sorawit.sa/static/media/imgport_2.6c67e33d5233dab6d15a.png",
@@ -17,7 +18,9 @@
     "static/media/photoshop.png": "/Sorawit.sa/static/media/photoshop.4bc46271dfb3ad82e936.png",
     "static/media/Vector4.png": "/Sorawit.sa/static/media/Vector4.53ab633804283786c729.png",
     "static/media/arduino.png": "/Sorawit.sa/static/media/arduino.0fe6992a36a7ab8191f7.png",
+    "static/media/JQuery.png": "/Sorawit.sa/static/media/JQuery.5218d846e86fbcafcc5d.png",
     "static/media/receipt.png": "/Sorawit.sa/static/media/receipt.fbe39fa68fabc0392330.png",
+    "static/media/sorpanit.png": "/Sorawit.sa/static/media/sorpanit.77a348cf0cdffce76178.png",
     "static/media/FCFS.png": "/Sorawit.sa/static/media/FCFS.fb74539664f460e36630.png",
     "static/media/docker.png": "/Sorawit.sa/static/media/docker.cfce27abd375053715ac.png",
     "static/media/C.png": "/Sorawit.sa/static/media/C.be4c0c0a82f46b0ef97e.png",
@@ -29,11 +32,11 @@
     "static/media/glasses.png": "/Sorawit.sa/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "static/media/css.png": "/Sorawit.sa/static/media/css.5721a3928fe43de6baf8.png",
     "index.html": "/Sorawit.sa/index.html",
-    "main.8c10f118.css.map": "/Sorawit.sa/static/css/main.8c10f118.css.map",
-    "main.84487b08.js.map": "/Sorawit.sa/static/js/main.84487b08.js.map"
+    "main.0048423b.css.map": "/Sorawit.sa/static/css/main.0048423b.css.map",
+    "main.881d0456.js.map": "/Sorawit.sa/static/js/main.881d0456.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c10f118.css",
-    "static/js/main.84487b08.js"
+    "static/css/main.0048423b.css",
+    "static/js/main.881d0456.js"
   ]
 }
